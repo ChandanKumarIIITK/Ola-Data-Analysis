@@ -30,17 +30,17 @@ Conclusion & Recommendations : Provided insights to enhance customer experience,
 <img width="715" alt="Dashboard5" src="https://github.com/user-attachments/assets/46dad404-dff3-47eb-ac7b-e4d9350a2439" />
 
 ## Project Insights:
-1.Ride Volume Trends: The ride volume fluctuates over time, with peak booking periods observed during specific hours or days.
-2.Booking Status Breakdown: A significant percentage of bookings are successfully completed, while cancellations by customers and drivers highlight potential operational challenges.
-3.Top Vehicle Types by Ride Distance: Certain vehicle types, such as sedans and SUVs, cover more distance on average compared to others, indicating their popularity for long trips.
-4.Customer Ratings by Vehicle Type: Customers tend to rate premium vehicle types higher compared to economy options, possibly due to better service quality.
-5.Ride Cancellations:Customer cancellations are primarily due to long wait times or pricing concerns.
-6.Driver cancellations: often occur due to unavailability or unfavorable ride locations.
-7.Revenue Analysis: Digital payments (UPI, Credit/Debit cards) contribute to a larger share of revenue compared to cash transactions.
-8.High-value customers : significantly impact total revenue generation.
-9.Ride Distance Distribution: Most rides fall within a certain distance range, with fewer long-distance trips recorded.
-10.Driver Rating Trends: A majority of drivers receive moderate to high ratings, but occasional low ratings indicate areas for service improvement.
-11.Customer vs. Driver Ratings: The correlation between customer and driver ratings suggests mutual influence—drivers with high ratings often receive positive feedback from customers.
+1. Ride Volume Trends: The ride volume fluctuates over time, with peak booking periods observed during specific hours or days.
+2. Booking Status Breakdown: A significant percentage of bookings are successfully completed, while cancellations by customers and drivers highlight potential operational challenges.
+3. Top Vehicle Types by Ride Distance: Certain vehicle types, such as sedans and SUVs, cover more distance on average compared to others, indicating their popularity for long trips.
+4. Customer Ratings by Vehicle Type: Customers tend to rate premium vehicle types higher compared to economy options, possibly due to better service quality.
+5. Ride Cancellations:Customer cancellations are primarily due to long wait times or pricing concerns.
+6. Driver cancellations: often occur due to unavailability or unfavorable ride locations.
+7. Revenue Analysis: Digital payments (UPI, Credit/Debit cards) contribute to a larger share of revenue compared to cash transactions.
+8. High-value customers : significantly impact total revenue generation.
+9. Ride Distance Distribution: Most rides fall within a certain distance range, with fewer long-distance trips recorded.
+10. Driver Rating Trends: A majority of drivers receive moderate to high ratings, but occasional low ratings indicate areas for service improvement.
+11. Customer vs. Driver Ratings: The correlation between customer and driver ratings suggests mutual influence—drivers with high ratings often receive positive feedback from customers.
 
 ## Project Conclusion:
 The Ola Data Analysis project successfully leverages Power BI to extract meaningful insights from ride-hailing data, providing a comprehensive understanding of booking trends, customer behavior, revenue distribution, and ride cancellations. The analysis highlights key patterns such as peak ride volumes, preferred vehicle types, payment method trends, and rating distributions, which can help improve operational efficiency and customer satisfaction.
